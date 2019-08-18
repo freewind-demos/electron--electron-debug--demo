@@ -3,8 +3,7 @@
   "scripts": {
     "demo": "electron ."
   },
-  "dependencies": {},
-  "devDependencies": {
+  "dependencies": {
     "electron": "6.0.1",
     "electron-debug": "3.0.1"
   }
