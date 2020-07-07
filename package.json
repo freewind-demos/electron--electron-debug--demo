@@ -4,7 +4,7 @@
     "demo": "electron ."
   },
   "dependencies": {
-    "electron": "6.0.1",
+    "electron": "9.1.0",
     "electron-debug": "3.0.1"
   }
 }
